@@ -1,0 +1,8 @@
+{
+  "name": "import-ai-chat",
+  "display_name": "Import AI Chat",
+  "description": "Import AI conversations from ChatGPT, Gemini, Claude and Perplexity share links",
+  "version": "1.0.0",
+  "author": "Open Source",
+  "category": "ai"
+}

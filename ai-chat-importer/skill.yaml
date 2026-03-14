@@ -1,0 +1,21 @@
+name: import_ai_chat
+
+description: |
+  Import AI conversation from a shared chat link.
+
+inputs:
+  url:
+    type: string
+    description: AI share link
+    required: true
+
+outputs:
+  platform:
+    type: string
+  title:
+    type: string
+  messages:
+    type: array
+
+run:
+  command: python main.py
