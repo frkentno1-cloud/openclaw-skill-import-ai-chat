@@ -1,6 +1,6 @@
 # AI Chat Importer
 
-OpenClaw skill to import AI conversations from share links.
+Import AI conversations from share links and convert them into structured knowledge.
 
 Supported platforms
 
@@ -8,6 +8,13 @@ Supported platforms
 - Gemini
 - Claude
 - Perplexity
+
+Features
+
+- Import AI chat
+- Convert to Markdown
+- Generate PRD
+- Create knowledge base documents
 
 ## Installation
 
